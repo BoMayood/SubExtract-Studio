@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Release installer artifacts (uploaded to GitHub Releases)
+release/
+*.zip
+
+# Bundled heavy binaries (>100MB exceeds GitHub push limit)
+bin/ffmpeg.exe
+bin/ffprobe.exe
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment and IDE
+.env
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+.gemini/

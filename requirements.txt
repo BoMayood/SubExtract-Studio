@@ -1,0 +1,8 @@
+# SubExtract Studio Dependencies
+# Developed by NoYz | Copyright © 2026 NoYz
+
+PyQt6>=6.6.0
+deep-translator>=1.11.4
+requests>=2.31.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
