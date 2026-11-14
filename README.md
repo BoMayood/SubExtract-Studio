@@ -42,7 +42,7 @@
 
 ## 🚀 المميزات الرئيسية / Key Features
 
-### 🇸🇦 المميزات باللغة العربية:
+### المميزات :
 1. **استخراج الترجمات بصمت وبنقرة زر واحدة:**
    - استخراج الترجمات النصية (`.ass`, `.srt`, `.vtt`, `.sub`) من حاويات الفيديو (`MKV`, `MP4`, `MOV`, `WEBM`).
    - خيار لاختيار مسار لغة معين عند تعدد اللغات في الفيديو الواحد.
@@ -66,7 +66,7 @@
 
 ---
 
-### 🌐 Key Features in English:
+### 🌐 Key Features :
 1. **Direct & Silent Subtitle Extraction:**
    - Effortlessly extracts subtitle streams (`.ass`, `.srt`, `.vtt`, `.sub`) from video containers (`MKV`, `MP4`, `MOV`, `WEBM`).
    - Ability to select specific audio/subtitle language tracks when multiple streams exist.
@@ -92,13 +92,13 @@
 
 ## 💾 التحميل والتثبيت / Download & Installation
 
-### 🇸🇦 للمستخدمين العاديين (باللغة العربية):
+### للمستخدمين العاديين :
 1. انتقل إلى صفحة الإصدارات الرسمية: **[Releases](../../releases)**.
 2. قم بتحميل أحدث ملف تثبيت تنفيذي: **`SubExtract_Studio_Setup.exe`**.
 3. افتح ملف التثبيت واتبع معالج التثبيت الرسومي البسيط.
 4. سيتكفل البرنامج بتثبيت وضبط كافة الأدوات المدمجة (FFmpeg & FFprobe) وإنشاء اختصار رسمي على سطح المكتب وقائمة ابدأ.
 
-### 🌐 For End-Users (In English):
+### 🌐 For End-Users :
 1. Navigate to the official releases page: **[Releases](../../releases)**.
 2. Download the latest standalone installer: **`SubExtract_Studio_Setup.exe`**.
 3. Launch the installer and follow the user-friendly graphical setup wizard.
