@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>المنظومة الاحترافية الشاملة لاستخراج وترجمة وضبط ترجمات الفيديو بالذكاء الاصطناعي</strong><br>
+  <strong>البرنامج المتكامل لاستخراج وترجمة ملفات الفيديو بالذكاء الاصطناعي</strong><br>
   <strong>Professional All-in-One Video Subtitle Extraction & AI Translation Desktop Suite</strong>
 </p>
 
@@ -33,10 +33,9 @@
 ## 🌟 نبذة عن البرنامج / Overview
 
 ### باللغة العربية
-برنامج **SubExtract Studio** هو أداة مكتبية متطورة مصممة خصيصاً للمترجمين، صناع المحتوى، وعشاق الأفلام والأنمي. يوفر البرنامج حلاً شاملاً ومتكاملاً لاستخراج مسارات الترجمة المدمجة داخل الفيديوهات بمختلف صيغها، وترجمتها فورياً إما بالذكاء الاصطناعي العصبي (Google Gemini / OpenAI) أو عبر محرك ترجمة قوقل المجاني بدون حظر أو حدود، مع إمكانية تحويل الترجمات الصورية (PGS) إلى نصوص عبر الـ OCR، وتعديل وتوقيت الترجمات في محرر واستوديو مباشر، وحرق الترجمة نهائياً داخل ملف الفيديو بجودة عالية وتنسيق خطوط مخصص.
-
+يُعد **SubExtract Studio**حزمة برمجية متكاملة ومصممة بمستوى احترافي لسطح المكتب، صُممت خصيصاً للمترجمين، ومحرري الفيديو، وعشاق الأنمي. يوفر البرنامج حلاً شاملاً لاستخراج مسارات الترجمة المدمجة من أي صيغة فيديو، وترجمتها فوراً بالاعتماد على الذكاء الاصطناعي (Google Gemini / OpenAI) أو عبر ترجمة جوجل المجانية غير المقيدة، بالإضافة إلى ضبط التوقيت وتعديل النصوص داخل استوديو تفاعلي مباشر، ودمج الترجمة (Hardcoding) في الفيديو مباشرة مع تحكم كامل في تخصيص الخطوط والمظهر.
 ### In English
-**SubExtract Studio** is an enterprise-grade desktop suite engineered for translators, video editors, anime fans, and content creators. It provides an all-in-one solution for extracting embedded subtitle tracks from any video container, translating them instantly via Neural AI (Google Gemini / OpenAI) or unrestricted Free Google Translate, converting bitmap/image subtitles (PGS) into text using OCR, timing and editing subtitles in an interactive live studio, and burning hardcoded subtitles directly into video with full typographic customization.
+**SubExtract Studio** is an enterprise-grade desktop suite engineered for translators, video editors, anime fans. It provides an all-in-one solution for extracting embedded subtitle tracks from any video container, translating them instantly via AI (Google Gemini / OpenAI) or unrestricted Free Google Translate, timing and editing subtitles in an interactive live studio, and burning hardcoded subtitles directly into video with full typographic customization.
 
 ---
 
@@ -49,16 +48,14 @@
 2. **محرك ترجمة مزدوج وفوري:**
    - **ترجمة الذكاء الاصطناعي (AI Translation):** دعم رسمي لمفاتيح Google Gemini ونماذج OpenAI لترجمة احترافية تحافظ على السياق اللغوي وجماليات المعنى.
    - **ترجمة قوقل المجانية المتقدمة:** محرك متعدد الطبقات يمنع خطأ 429 أو الحظر ويعمل بلا حدود.
-3. **محرك التعرف الضوئي (OCR Image Subtitles):**
-   - التعرف على الترجمات الصورية (مثل PGS في ملفات البلوراي والأنمي) وتحويلها إلى نصوص SRT قابلة للقراءة والترجمة.
-4. **استوديو ومحرر ملفات الترجمة (Subtitle Studio):**
+3. **استوديو ومحرر ملفات الترجمة (Subtitle Studio):**
    - محرر نصوص سطر بسطر مع فحص التوقيت.
    - أداة الإزاحة الزمنية (Time Shift) لتسريع أو تأخير توقيت الترجمة بالمللي ثانية.
    - أداة البحث والاستبدال المتقدمة (Find & Replace).
    - التحويل المباشر بين صيغ الترجمة (`SRT` ⟷ `ASS` ⟷ `VTT`).
-5. **حرق الترجمة نهائياً داخل الفيديو (Hardcode Burn-in):**
+4. **حرق الترجمة نهائياً داخل الفيديو (Hardcode Burn-in):**
    - دمج الترجمة مباشرة في الفيديو مع اختيار نوع الخط، الحجم، اللون الأساسي، لون الإطار، الظلال، والتنسيق الغامق والمائل.
-6. **برنامج تثبيت مستقل واحترافي (Standalone Installer):**
+5. **برنامج تثبيت مستقل واحترافي (Standalone Installer):**
    - معالج تثبيت رسومي راقي يدعم العربية والإنجليزية.
    - تسجيل تلقائي ورسمي في إعدادات وتطبيقات نظام ويندوز (Control Panel).
    - برنامج إلغاء تثبيت رسومي حقيقي (`uninstall.exe`) بنقرة زر واحدة.
@@ -73,16 +70,14 @@
 2. **Dual Translation Engine:**
    - **Neural AI Translation:** Native support for Google Gemini and OpenAI models for contextual, highly nuanced subtitle translations.
    - **Unrestricted Free Google Translate:** Multi-tier fallback pipeline designed to avoid HTTP 429 rate limits.
-3. **High-Accuracy OCR Engine:**
-   - Extracts image-based subtitle formats (such as PGS in Blu-ray and anime releases) and converts them into editable SRT text files.
-4. **Interactive Subtitle Studio & Editor:**
+3. **Interactive Subtitle Studio & Editor:**
    - Real-time cue inspector and editor with millisecond timing control.
    - Advanced Time Shift tool (delay or advance subtitle synchronization).
    - Search & Replace with whole-word and case-matching options.
    - Instant format converter between `.srt`, `.ass`, and `.vtt`.
-5. **Hardcoded Subtitle Video Burn-In:**
+4. **Hardcoded Subtitle Video Burn-In:**
    - High-speed video rendering with subtitle burn-in featuring customized font family, size, primary color, outline color, and shadow.
-6. **Enterprise Setup Installer & Uninstaller:**
+5. **Enterprise Setup Installer & Uninstaller:**
    - Modern, bilingual Windows setup wizard (English & Arabic).
    - Native integration with Windows Settings and Control Panel (Add/Remove Programs).
    - Dedicated GUI Uninstaller (`uninstall.exe`) with zero black command prompt popups.
