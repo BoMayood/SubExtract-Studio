@@ -106,7 +106,7 @@
 
 ## 📜 شروط الاستخدام والترخيص / Terms & License
 
-- ** الترخيص:** هذا البرنامج مرخص رسمياً تحت رخصة **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
+- **الترخيص:** هذا البرنامج مرخص رسمياً تحت رخصة **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
 - **🌐 License:** This software is officially licensed under the **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
 
 ### شروط الاستخدام :
