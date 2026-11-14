@@ -60,7 +60,8 @@
    - تسجيل تلقائي ورسمي في إعدادات وتطبيقات نظام ويندوز (Control Panel).
    - برنامج إلغاء تثبيت رسومي حقيقي (`uninstall.exe`) بنقرة زر واحدة.
    - محركات FFmpeg و FFprobe مدمجة بالكامل ليعمل البرنامج فوراً على أي جهاز دون تثبيت أي برامج إضافية.
-
+6 .**محرك بحث ترجمات اونلاين و تحميلها**
+     - محرك يبحث لك عن ملف ترجمه للفلم او المسلسل او الانمي اونلاين و تحميلها مباشره على جهازك بضغطه زر 
 ---
 
 ### 🌐 Key Features :
@@ -82,6 +83,8 @@
    - Native integration with Windows Settings and Control Panel (Add/Remove Programs).
    - Dedicated GUI Uninstaller (`uninstall.exe`) with zero black command prompt popups.
    - Fully standalone: bundled with FFmpeg & FFprobe binaries (zero external dependencies).
+ 6. **Online Subtitle Search & Download **
+   - A built-in search engine that finds subtitle files online for any movie, TV series, or anime and downloads them directly to your device with a single click.
 
 ---
 
