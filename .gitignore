@@ -20,6 +20,7 @@ bin/ffprobe.exe
 # Logs and databases
 *.log
 *.sqlite3
+config.json
 
 # Environment and IDE
 .env
