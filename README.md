@@ -42,7 +42,7 @@
 
 ## 🚀 المميزات الرئيسية / Key Features
 
-###  المميزات  :
+### 🇸🇦 المميزات باللغة العربية:
 1. **استخراج الترجمات بصمت وبنقرة زر واحدة:**
    - استخراج الترجمات النصية (`.ass`, `.srt`, `.vtt`, `.sub`) من حاويات الفيديو (`MKV`, `MP4`, `MOV`, `WEBM`).
    - خيار لاختيار مسار لغة معين عند تعدد اللغات في الفيديو الواحد.
@@ -92,39 +92,54 @@
 
 ## 💾 التحميل والتثبيت / Download & Installation
 
-### للمستخدمين العاديين / For End-Users:
-1. انتقل إلى صفحة الإصدارات: **[Releases](../../releases)**.
-2. قم بتحميل أحدث ملف تثبيت: **`SubExtract_Studio_Setup.exe`**.
+### 🇸🇦 للمستخدمين العاديين (باللغة العربية):
+1. انتقل إلى صفحة الإصدارات الرسمية: **[Releases](../../releases)**.
+2. قم بتحميل أحدث ملف تثبيت تنفيذي: **`SubExtract_Studio_Setup.exe`**.
 3. افتح ملف التثبيت واتبع معالج التثبيت الرسومي البسيط.
-4. سيتكفل البرنامج بتثبيت كافة الأدوات وإنشاء اختصار رسمي على سطح المكتب وقائمة ابدأ.
+4. سيتكفل البرنامج بتثبيت وضبط كافة الأدوات المدمجة (FFmpeg & FFprobe) وإنشاء اختصار رسمي على سطح المكتب وقائمة ابدأ.
+
+### 🌐 For End-Users (In English):
+1. Navigate to the official releases page: **[Releases](../../releases)**.
+2. Download the latest standalone installer: **`SubExtract_Studio_Setup.exe`**.
+3. Launch the installer and follow the user-friendly graphical setup wizard.
+4. The installer will automatically configure all bundled tools (FFmpeg & FFprobe) and create official Desktop and Start Menu shortcuts.
 
 ---
 
 ## 📜 شروط الاستخدام والترخيص / Terms & License
 
-هذا البرنامج مرخص تحت رخصة **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
+- **🇸🇦 الترخيص:** هذا البرنامج مرخص رسمياً تحت رخصة **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
+- **🌐 License:** This software is officially licensed under the **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
 
-### شروط الاستخدام (Terms of Use):
+### 🇸🇦 شروط الاستخدام (باللغة العربية):
 باستخدامك لهذا البرنامج، فإنك توافق على الشروط التالية:
-1. **مجاني ومفتوح المصدر:** هذا البرنامج مجاني بالكامل ومتاح للجميع للاستخدام الشخصي والتعليمي، كما أن الكود المصدري متوفر للجميع للاطلاع والتطوير.
+1. **مجاني ومفتوح المصدر:** هذا البرنامج مجاني بالكامل ومتاح للجميع للاستخدام الشخصي والتعليمي، كما أن الكود المصدري (Source Code) متوفر للجميع للاطلاع والتطوير.
 2. **يُمنع البيع أو الاستغلال التجاري:** يُمنع منعاً باتاً بيع هذا البرنامج أو التربح منه بأي شكل من الأشكال، سواء بنسخته الأصلية أو بعد التعديل عليه.
 3. **حفظ حقوق المطور:** يحق لك التعديل على الكود ومشاركته مع الآخرين بشرط الإشارة بوضوح إلى اسم المطور الأصلي (**NoYz**) ورابط المشروع، وعدم إزالة أو تغيير حقوق الملكية الموجودة في البرنامج.
 4. **إخلاء المسؤولية:** البرنامج مجرد أداة تقنية لاستخراج وترجمة النصوص. المستخدم يتحمل المسؤولية الكاملة عن الملفات التي يتعامل معها ومدى قانونيتها، والمطور غير مسؤول عن أي استخدام خاطئ أو مخالف لحقوق النشر.
 5. **الضمان:** يُقدم البرنامج "كما هو" دون أي ضمانات، ولا يتحمل المطور أي مسؤولية عن أي أعطال أو فقدان للبيانات قد يحدث أثناء الاستخدام.
+
+### 🌐 Terms of Use (In English):
+By using this software, you expressly agree to the following terms and conditions:
+1. **Free & Open-Source:** This software is completely free and accessible to everyone for personal and educational use. The full source code is publicly available for review, learning, and community enhancement.
+2. **Commercial Sale Strictly Prohibited:** Selling this software or profiting/monetizing from it in any form—whether in its original release or in modified versions—is strictly prohibited.
+3. **Developer Attribution & Rights:** You are permitted to modify and distribute the code provided that you clearly attribute the original developer (**NoYz**) and provide a link to the official project repository, without removing or altering any copyright notices.
+4. **Disclaimer of Responsibility:** This software is strictly a technical utility for extracting and translating text. The user assumes full legal liability for all media files processed. The developer is not responsible for any misuse or copyright infringements.
+5. **Disclaimer of Warranty:** The software is provided "AS IS" without warranty of any kind. The developer assumes no liability for any system issues, disruptions, or data loss that may arise during use.
 
 ---
 
 ## 💻 التشغيل والبناء للمطورين / Developer Guide
 
 ### المتطلبات / Prerequisites:
-- Python 3.10 أو أحدث.
-- نظام تشغيل Windows 10 أو 11 (64-bit).
+- Python 3.10 أو أحدث / Python 3.10+
+- نظام تشغيل Windows 10 أو 11 (64-bit) / Windows 10/11 (64-bit)
 
 ### خطوات التثبيت والتشغيل من السورس كود / Run from Source:
 ```bash
 # 1. استنساخ المستودع / Clone repository
-git clone https://github.com/iNoYz/subextract-studio.git
-cd subextract-studio
+git clone https://github.com/BoMayood/SubExtract-Studio.git
+cd SubExtract-Studio
 
 # 2. إنشاء وتفعيل بيئة وهمية / Create and activate virtualenv
 python -m venv venv
