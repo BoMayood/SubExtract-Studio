@@ -108,10 +108,10 @@
 
 ## 📜 شروط الاستخدام والترخيص / Terms & License
 
-- **🇸🇦 الترخيص:** هذا البرنامج مرخص رسمياً تحت رخصة **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
+- ** الترخيص:** هذا البرنامج مرخص رسمياً تحت رخصة **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
 - **🌐 License:** This software is officially licensed under the **[GNU General Public License v3.0 (GPLv3)](LICENSE)**.
 
-### 🇸🇦 شروط الاستخدام (باللغة العربية):
+### شروط الاستخدام :
 باستخدامك لهذا البرنامج، فإنك توافق على الشروط التالية:
 1. **مجاني ومفتوح المصدر:** هذا البرنامج مجاني بالكامل ومتاح للجميع للاستخدام الشخصي والتعليمي، كما أن الكود المصدري (Source Code) متوفر للجميع للاطلاع والتطوير.
 2. **يُمنع البيع أو الاستغلال التجاري:** يُمنع منعاً باتاً بيع هذا البرنامج أو التربح منه بأي شكل من الأشكال، سواء بنسخته الأصلية أو بعد التعديل عليه.
@@ -119,7 +119,7 @@
 4. **إخلاء المسؤولية:** البرنامج مجرد أداة تقنية لاستخراج وترجمة النصوص. المستخدم يتحمل المسؤولية الكاملة عن الملفات التي يتعامل معها ومدى قانونيتها، والمطور غير مسؤول عن أي استخدام خاطئ أو مخالف لحقوق النشر.
 5. **الضمان:** يُقدم البرنامج "كما هو" دون أي ضمانات، ولا يتحمل المطور أي مسؤولية عن أي أعطال أو فقدان للبيانات قد يحدث أثناء الاستخدام.
 
-### 🌐 Terms of Use (In English):
+### 🌐 Terms of Use :
 By using this software, you expressly agree to the following terms and conditions:
 1. **Free & Open-Source:** This software is completely free and accessible to everyone for personal and educational use. The full source code is publicly available for review, learning, and community enhancement.
 2. **Commercial Sale Strictly Prohibited:** Selling this software or profiting/monetizing from it in any form—whether in its original release or in modified versions—is strictly prohibited.
